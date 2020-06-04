@@ -1,12 +1,22 @@
 # Code-First vs DB-First DB migrations
 
-Comparative analysis of code-first and db-first migration + deployment strategies.
-I recommend to apply code diff to the following pairs:
+Analysis of code-first and db-first migration/deployment strategies.
+I recommend to fork the repo and compare the following files:
 
-1. [Scheme-1](./scheme1.md)
-2. [Scheme-2](./scheme2.md)
-3. [Scheme-3](./scheme3.md)
-3. [Scheme-4](./scheme4.md)
+- [scheme-1.md](./scheme1.md)
+- [scheme-2.md](./scheme2.md)
+- [scheme-3.md](./scheme3.md)
+- [scheme-4.md](./scheme4.md)
+
+Pairwise: 
+
+- [scheme-1.md](./scheme1.md) diff [scheme-2.md](./scheme2.md)
+- [scheme-2.md](./scheme2.md) diff [scheme-3.md](./scheme3.md) 
+- and so on...
+
+![diff](./diff.png)
+
+More comments and guides will be (hopefully) added.
 
 --
 
