@@ -8,4 +8,6 @@ I recommend to apply code diff to the following pairs:
 3. [Scheme-3](./scheme3.md)
 3. [Scheme-4](./scheme4.md)
 
-[Video (ru language)](https://youtu.be/YsXJ29PFxPw)
+--
+
+[Video Explanation (RU lang)](https://youtu.be/YsXJ29PFxPw).
