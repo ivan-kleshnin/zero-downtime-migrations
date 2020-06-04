@@ -1,4 +1,4 @@
-# Code-First vs DB-First DB migrations
+# Code-First and DB-First migrations
 
 Analysis of **code-first** and **db-first** migration/deployment strategies.
 I recommend to fork the repo and compare the following files:
